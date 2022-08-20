@@ -1,8 +1,8 @@
 {	
-  "4j.advancement.config.root.name": "\ud074\ub77c\uc774\uc5b8\ud2b8 옵션",
+  "4j.advancement.config.root.name": "\ud074\ub77c\uc774\uc5b8\ud2b8 \uc635\uc158",
   "4j.advancement.config.armorbar.desc": "착용하고 있는 갑옷을 보여주지 않습니다.\n\n§6/trigger armorbar로 토글 할 수 있습니다",
   "4j.advancement.config.armorbar.name": "갑옷 바 비활성화",
-  "4j.advancement.config.custompack.desc": "커스텀 리소스팩의 사용을 허용합니다.\n\n§6/trigger custompack로 토글 할 수 있습니다",
+  "4j.advancement.config.custompack.desc": "커스텀 리소스팩의 사용을 허용합니다.\n\n§6/trigger maptextures set -2로 토글 할 수 있습니다",
   "4j.advancement.config.custompack.name": "커스텀 리소스팩",
   "4j.advancement.config.globalpack.desc": "맵 특정 텍스쳐를 비활성화합니다.\n\n§6/trigger maptextures로 토글 할 수 있습니다",
   "4j.advancement.config.globalpack.name": "맵 특정 텍스쳐 금지",
