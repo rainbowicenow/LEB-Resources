@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "lem.base",
+            "prefix": "lem.base/"
+        },
+        {
+            "type": "directory",
+            "source": "lem.battle",
+            "prefix": "lem.battle/"
+        }
+    ]
+}
